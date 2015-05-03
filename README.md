@@ -5,7 +5,8 @@ A Git repository for building a Docker image for a complete Continous Integratio
 This image is still in its verion 0, i.e. still under construction.
 
 ## Content
-This image aims is built on the openjdk (v7) image. It contains:
+This image is built on the openjdk (v7) image.
+It aims to build an image that contains:
 
 * *git* command line client
 * *apache maven 3.3.3* installation (in /usr/share/maven/apache-maven-3.3.3)
